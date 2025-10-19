@@ -26,8 +26,8 @@ Each principle is explained with clear definitions, practical examples, and code
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mdhabibi/solid-design-principles.git
-   cd solid-design-principles
+   git clone https://github.com/mdhabibi/solid-principles-tutorial.git
+   cd solid-principles-tutorial
    ```
 
 2. **Create virtual environment**
@@ -81,7 +81,7 @@ Each notebook follows a consistent structure:
 ## Repository Structure
 
 ```
-solid-design-principles/
+solid-principles-tutorial/
 ├── README.md
 ├── LICENSE
 ├── 00_SOLID_Principles_Overview.ipynb
