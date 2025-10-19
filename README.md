@@ -1,9 +1,5 @@
 # SOLID Design Principles
 
-<div align="center">
-  <img src="Banner-solid.png" width="400">
-</div>
-
 A comprehensive collection of Jupyter notebooks that teach the SOLID design principles in Python through practical examples and hands-on exercises.
 
 ## Overview
